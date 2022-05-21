@@ -3,7 +3,7 @@
 Here in this practical session, we will cover basics of using a terminal, go over some bioinformatics file formats, and finally we will have an intense hands-on exercises. You can see a table-of-contents below with links. 
 
 Headlines are marked to denote whether a session will be held in self-paced format or you would need to follow the instructor in real time.
-For the real-time sessions the written material will be uploaded here (the links will work only then).
+For the real-time sessions the written material will be uploaded here after the sessions (the links will work only then).
 
 - [1.Basics of using a terminal (self-paced)](./terminal_basics.md#basics-of-using-a-terminal)
     - [A general introduction](./terminal_basics.md#a-general-introduction)
