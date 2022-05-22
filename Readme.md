@@ -20,8 +20,8 @@ In this intense workshop we will introduce the basics of *Phylogenomics*. The id
 | 12:00-13:00 | **Lunch**                                      | **Lunch**              | **Lunch**                | **Lunch**                 |
 | 13:00-14:00 | NGS technology                                 | 3-Finding the markers  | 7-Model based            | Interpreting the results  |
 | 14:00-15:00 | NGS technology                                 | 4-Alignment & QC       | 7-Model based            | Interpreting the results  |
-| 15:00-16:00 | 2-Assembling Genomes                           | 4-Alignment & QC       | Interpreting the results | Q&A and Literature review |
-| 16:00-17:00 | 2-Assembling Genomes                           | 5-Reference Generation | Interpreting the results | Q&A and Literature review |
+| 15:00-16:00 | [2-Assembling Genomes](./Tutorials/2.Assembly) | 4-Alignment & QC       | Interpreting the results | Q&A and Literature review |
+| 16:00-17:00 | [2-Assembling Genomes](./Tutorials/2.Assembly) | 5-Reference Generation | Interpreting the results | Q&A and Literature review |
 
 
 
