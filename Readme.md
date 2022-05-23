@@ -12,16 +12,16 @@ In this intense workshop we will introduce the basics of *Phylogenomics*. The id
 **Location:** Lund University, Biology building, Room: Retina D227.
 
 
-| Hours\Days  | 22nd                                           | 23rd                   | 24th                     | 25th                      |
-|-------------|------------------------------------------------|------------------------|--------------------------|---------------------------|
-| 9:00-11:00  | [1-Bash & Bioinfo](./Tutorials/1.Introduction) | Phylogeny theory       | Model Based Phylogeny    | Bayesian approaches       |
-| 10:00-11:00 | [1-Bash & Bioinfo](./Tutorials/1.Introduction) | Phylogeny theory       | Maximum Likelihood       | Bayesian approaches       |
-| 11:00-12:00 | [1-Bash & Bioinfo](./Tutorials/1.Introduction) | 3-Finding the markers  | 6-Supergene              | 8-MrBayes                 |
-| 12:00-13:00 | **Lunch**                                      | **Lunch**              | **Lunch**                | **Lunch**                 |
-| 13:00-14:00 | NGS technology                                 | 3-Finding the markers  | 7-Model based            | Interpreting the results  |
-| 14:00-15:00 | NGS technology                                 | 4-Alignment & QC       | 7-Model based            | Interpreting the results  |
-| 15:00-16:00 | [2-Assembling Genomes](./Tutorials/2.Assembly) | 4-Alignment & QC       | Interpreting the results | Q&A and Literature review |
-| 16:00-17:00 | [2-Assembling Genomes](./Tutorials/2.Assembly) | 5-Reference Generation | Interpreting the results | Q&A and Literature review |
+| Hours\Days  | 22nd                                           | 23rd                                                      | 24th                     | 25th                      |
+|-------------|------------------------------------------------|-----------------------------------------------------------|--------------------------|---------------------------|
+| 9:00-11:00  | [1-Bash & Bioinfo](./Tutorials/1.Introduction) | Phylogeny theory                                          | Model Based Phylogeny    | Bayesian approaches       |
+| 10:00-11:00 | [1-Bash & Bioinfo](./Tutorials/1.Introduction) | Phylogeny theory                                          | Maximum Likelihood       | Bayesian approaches       |
+| 11:00-12:00 | [1-Bash & Bioinfo](./Tutorials/1.Introduction) | 3-Finding the markers                                     | 6-Supergene              | 8-MrBayes                 |
+| 12:00-13:00 | **Lunch**                                      | **Lunch**                                                 | **Lunch**                | **Lunch**                 |
+| 13:00-14:00 | NGS technology                                 | 3-Finding the markers                                     | 7-Model based            | Interpreting the results  |
+| 14:00-15:00 | NGS technology                                 | [4-Alignment & QC](./Tutorials/4.Alignments)              | 7-Model based            | Interpreting the results  |
+| 15:00-16:00 | [2-Assembling Genomes](./Tutorials/2.Assembly) | [4-Alignment & QC](./Tutorials/4.Alignments)              | Interpreting the results | Q&A and Literature review |
+| 16:00-17:00 | [2-Assembling Genomes](./Tutorials/2.Assembly) | [5-Reference Generation](./Tutorials/5.ReferenceDatasets) | Interpreting the results | Q&A and Literature review |
 
 
 
