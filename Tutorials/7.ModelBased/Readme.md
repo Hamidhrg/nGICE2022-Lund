@@ -42,7 +42,7 @@ Notes:
 `-arlt` will perform the SH-aLRT test.
 
 ```
-iqtree -s file.phy -spp MyPartitions.txt -m MFP+MERGE -bb 1000 -arlt 1000
+iqtree -s file.phy -spp MyPartitions.txt -m MFP+MERGE -bb 1000 -alrt 1000
 ```
 
    Suffix	     Output File Explanation
